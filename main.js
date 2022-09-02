@@ -15,7 +15,7 @@ for (let contador = 0; contador < listaDeTeclas.length; contador++) {
 
     const tecla = listaDeTeclas[contador];
 
-    const instrumento = tecla.classList[1];
+    const instrumento = tecla.classList[1]; //aqui pega a segunda classe dos botoes
 
     const idAudio = `#som_${instrumento}`;
 
@@ -26,10 +26,8 @@ for (let contador = 0; contador < listaDeTeclas.length; contador++) {
     tecla.onkeydown = function () {
         if (tecla.code === "Enter" || tecla.code === "Space") {
             tecla.classList.add("ativa");
-        }
+        };
     };
-
-    tecla.
 
     tecla.onkeyup = function () {
         tecla.classList.remove("ativa");
