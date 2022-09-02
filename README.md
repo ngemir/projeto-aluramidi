@@ -4,6 +4,9 @@
  ## Sobre o projeto
 <h4 align="center">O projeto tem como foco aplicar o javaScript para que o mesmo altere a cor dos botões por meio de teclado e cliques, para reproduzir sons.</h4>
 
+## Acesso ao projeto
+- [🔗Alura MIDI](https://swaveng.github.io/projeto-aluramidi/)
+
 ## Agradecimento
 <div style="display:flex; justify-content: space-between;">
     <div style="height: 100px">
@@ -12,9 +15,9 @@
             <p>(Plataforma do curso)</p>
         </a>
     </div>
-    <div style="height: 100px">
+    <div >
         <a href="https://github.com/ikyrie">
-            <img src="https://avatars.githubusercontent.com/u/3089882?v=4">
+            <img src="https://avatars.githubusercontent.com/u/3089882?v=4" style="height: 100px">
             <p>Vanessa Me Tonini (Instrutora)</p>
         </a>
     </div>
