@@ -4,6 +4,7 @@
  ## Sobre o projeto
 <h4 align="center">O projeto tem como foco aplicar o javaScript para que o mesmo altere a cor dos botões por meio de teclado e cliques, para reproduzir sons.</h4>
 
+![Midi Preview](./images/preview.gif)
 ## Acesso ao projeto
 - [🔗Alura MIDI](https://swaveng.github.io/projeto-aluramidi/)
 
