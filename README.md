@@ -6,7 +6,7 @@
 
 ![Midi Preview](./images/preview.gif)
 ## Acesso ao projeto
-- [🔗Alura MIDI](https://swaveng.github.io/projeto-aluramidi/)
+- [🔗Alura MIDI](https://ngemir.github.io/projeto-aluramidi/)
 
 ## Agradecimento
 <div style="display:flex; justify-content: space-between;">
